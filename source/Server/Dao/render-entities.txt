@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=NGUYENKHA-TGG;Database=QuestionAndAnswer;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -c QuestionAndAnswerDbContext --use-database-names --json -o Entities -f 

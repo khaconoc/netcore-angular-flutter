@@ -20,3 +20,15 @@ source/ServerApi/GenCode/obj/
 source/ServerApi/ServerApi/bin/
 
 source/ServerApi/ServerApi/obj/
+
+source/Server/.idea/
+
+source/Server/.vs/
+
+source/Server/Common/obj/
+
+source/Server/Dao/obj/
+
+source/Server/WebApi/bin/
+
+source/Server/WebApi/obj/

@@ -1,1 +1,0 @@
-﻿Controller điều hướng  vào domain

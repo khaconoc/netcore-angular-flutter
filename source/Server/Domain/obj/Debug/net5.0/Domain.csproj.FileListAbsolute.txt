@@ -1,0 +1,15 @@
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\bin\Debug\net5.0\Domain.dll
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\bin\Debug\net5.0\Domain.pdb
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\bin\Debug\net5.0\Dao.dll
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\bin\Debug\net5.0\Dao.pdb
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\Domain.dll
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\DATA\Ha_Noi_Code\netcore-angular-flutter\source\Server\Domain\obj\Debug\net5.0\Domain.pdb
